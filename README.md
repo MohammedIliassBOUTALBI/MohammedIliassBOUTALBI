@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 À propos de moi  
-💡 Passionné par l’**Intelligence Artificielle**, la**Science des Données** et l'**Entrepreneuriat**, je travaille sur des projets combinant **Machine Learning, Deep Learning** et **Data Science**.  
+💡 Passionné par l’**Intelligence Artificielle**, la **Science des Données** et l'**Entrepreneuriat**, je travaille sur des projets combinant **Machine Learning, Deep Learning** et **Data Science**.  
 
 🔬 Mon objectif est d’exploiter les nouvelles technologies pour **résoudre des problèmes réels** et **innover dans le domaine de l’IA**.  
 
@@ -54,6 +54,11 @@
 - 🤖 **Développement d’un modèle de reconnaissance des émotions faciales (FER) en temps réel**  
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedIliassBOUTALBI&layout=compact&theme=tokyonight" />
+</p>
+
 
 ### 📫 Où me trouver ?  
 📍 **LinkedIn** : [Mohammed Iliass BOUTALBI](https://www.linkedin.com/in/mohammed-iliass-boutalbi-2580282b0/)  
