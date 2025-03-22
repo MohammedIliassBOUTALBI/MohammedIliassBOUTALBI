@@ -55,10 +55,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedIliassBOUTALBI&layout=compact&theme=tokyonight" />
-</p>
-
 
 ### 📫 Où me trouver ?  
 📍 **LinkedIn** : [Mohammed Iliass BOUTALBI](https://www.linkedin.com/in/mohammed-iliass-boutalbi-2580282b0/)  
